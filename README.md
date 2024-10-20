@@ -3,7 +3,7 @@
 <h3>Usage Example</h3>
 <ul>
     <li><strong>Python Script</strong>:
-        <pre>python3 anna-splitter.py</pre>
+        <pre>python3 anna-renamer.py</pre>
     </li>
 </ul>
 
